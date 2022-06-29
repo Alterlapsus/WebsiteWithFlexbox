@@ -18,11 +18,14 @@ body{
 }
 
 .hero{
-    width: 90%;
-    margin: 0 auto;
     display: flex;
-    padding-top: 2rem;
+    background-color: #f77062;
 }
+
+.hero__texts{
+    margin: 0 auto;
+}
+
 .hero__texts{
     display: flex;
     flex-direction: column;
