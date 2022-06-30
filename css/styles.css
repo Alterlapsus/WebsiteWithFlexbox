@@ -265,4 +265,22 @@ body{
     .hero__title{
         font-size: 3.5rem;
     }
+    /* section about */
+    .about__texts{
+        width: 90%;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 80px;
+        --align-title: center;
+    }
+    .about__paragraph{
+        text-align: left;
+    }
+    .about__img{
+        width: 100%;
+    }
+    .portfolio__card{
+        width: 45%;
+        margin-bottom: 80px;
+    }
 }
