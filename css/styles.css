@@ -290,4 +290,8 @@ body{
     .gallery__picture{
         width: 45%;
     }
+    .languages__container{
+        justify-content: space-between;
+
+    }
 }
