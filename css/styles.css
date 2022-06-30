@@ -143,3 +143,14 @@ body{
     text-align: center;
     font-weight: 300;
 }
+
+/* copy section */
+.copy{
+    background-color: var(--color-primary);
+}
+.copy__texts{
+    --color-primary: #fff;
+}
+.title--margin{
+    margin: 0;
+}
