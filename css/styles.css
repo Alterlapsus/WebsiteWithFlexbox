@@ -187,3 +187,55 @@ body{
     width: 20%;
     height: 100px;
 }
+
+/* footer section */
+.footer{
+    background-color: var(--color-primary);
+    color: #fff;
+    text-align: center;
+}
+.footer__container{
+    --color-primary: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__texts{
+    width: 50%;
+}
+.footer__icon{
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0 30px;
+    text-decoration: none;
+    color: #fff;
+    margin-bottom: 30px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 50%;
+}
+.footer__icon.fa-brands{
+    line-height: 60px;
+}
+.footer__icon:hover{
+    background-color: #fff;
+    color: #f77062;
+    cursor: pointer;
+}
+.footer__link{
+    display: inline-block;
+    color: #fff;
+    margin: 0 20px;
+    margin-bottom: 15px;
+}
+.footer__link:hover{
+    text-decoration: none;
+}
+.footer__img{
+    margin: 0;
+    width: 35%;
+}
+.footer__picture{
+    width: 90%;
+}
