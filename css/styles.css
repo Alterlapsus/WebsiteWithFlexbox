@@ -95,3 +95,45 @@ body{
     color: #ffF; 
     text-decoration: none;
 }
+
+/* portfolio section */
+.portfolio{
+    background-color: var(--color-bg);
+}
+.portfolio__card{
+    width: 27%;
+    background-color: #fff;
+    height: auto;
+    box-shadow: var(--box-shadow);
+    border-radius: 10px;
+}
+.portfolio__picture{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    display: block;
+    height: 200px;
+    object-fit: cover;
+}
+.portfolio__texts{
+    padding: 30px 20px 40px;
+}
+.portfolio__title{
+    font-size: 1.5rem;
+    text-align: center;
+    color: var(--color-secondary);
+    margin: 0;
+}
+.portfolio__paragraph{
+    font-weight: 300;
+    margin: 30px 0;
+}
+.portfolio__cta{
+    display: block;
+    background-color: var(--color-secondary);
+    color: #fff;
+    padding: 15px 0;
+    border-radius: 30px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 300;
+}
