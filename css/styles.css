@@ -285,4 +285,9 @@ body{
         width: 45%;
         margin-bottom: 80px;
     }
+
+    /* section Gallery*/
+    .gallery__picture{
+        width: 45%;
+    }
 }
