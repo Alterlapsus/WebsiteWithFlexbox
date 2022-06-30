@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
 
 *{
-    /* outline:3px solid red; */
+    outline:3px solid red;
 }
 
 :root{
@@ -40,6 +40,7 @@ body{
 .hero__img{
     width: 45%;
     text-align: center;
+    margin: 0;
 }
 .hero__picture{
     max-width: 80%;
@@ -239,3 +240,6 @@ body{
 .footer__picture{
     width: 90%;
 }
+
+/* responsive 800px */
+
