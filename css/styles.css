@@ -294,4 +294,18 @@ body{
         justify-content: space-between;
 
     }
+    /* footer */
+    .footer__container{
+        flex-direction: column;
+    }
+    .footer__img{
+        order: -1;
+        width: 45%;
+    }
+    .footer__picture{
+        width: 100%;
+    }
+    .footer__texts{
+        width: 100%;
+    }
 }
