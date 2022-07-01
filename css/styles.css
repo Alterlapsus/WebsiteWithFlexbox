@@ -337,4 +337,10 @@ body{
         width: 90%;
         max-width: 300px;
     }
+
+    /* section gallery */
+    .gallery__picture{
+        width: 90%;
+        max-width: 300px;
+    }
 }
