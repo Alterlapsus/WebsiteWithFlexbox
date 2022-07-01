@@ -343,4 +343,12 @@ body{
         width: 90%;
         max-width: 300px;
     }
+    /* section language */
+    .languages__container{
+        justify-content: space-around;
+    }
+    .languages__picture{
+        width: 35%;
+        margin-bottom: 30px;
+    }
 }
