@@ -309,3 +309,9 @@ body{
         width: 100%;
     }
 }
+
+/* responsive 320px */
+
+@media screen and (max-width: 320px) {
+    
+}
