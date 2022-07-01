@@ -351,4 +351,13 @@ body{
         width: 35%;
         margin-bottom: 30px;
     }
+
+    /* footer */
+    .footer__img{
+        width: 90%;
+    }
+    .footer__picture{
+        max-width: 350px;
+        margin-bottom: 40px;
+    }
 }
